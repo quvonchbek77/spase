@@ -1,0 +1,25 @@
+
+body{
+    background-color:rgb(19, 111, 81);
+}
+h1{
+    background-color: black;
+    width: 400px;
+    text-align: center;
+    margin-left: 550px;
+    color: white;
+    height: 50px;
+    font-size: 42px;
+}
+.box{
+    width: 750px;
+    background-color: black;
+    padding: 40px;
+    border: 5px solid red;
+    margin-left: 320px;
+}
+p{
+ background-color: aquamarine;
+ padding: 50px;
+ font-weight: 800;   
+}
